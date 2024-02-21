@@ -1,0 +1,44 @@
+Task 2
+
+web https://timmyomahony.com/
+
+color: rgb(0 0 0/var(--tw-text-opacity));  color de texto principal
+color: rgb(114 100 92/var(--tw-text-opacity));	color de texto secundario
+
+background-color: rgb(36 36 36/var(--tw-bg-opacity)); color de fondo
+
+
+Task 3
+
+Como [usuario] de Youtube quiero poder: Crear listas de reproducción para poder guardar y catalogar los videos que me interesan y tener facil acceso a ellos.
+
+Task 4
+
+El objetivo primario de Facebook es conectar a personas entre si y compartir fotos.
+El objetivo primario de Twitter es la conectividad y el intercambio de información en tiempo real.
+El objetivo primario de Google es hacer la información facilmente accesible a todos.
+El objetivo primario de Youtube es la facil visualización de videos, ya sea informativos o de entretenimiento.
+
+
+Respuestas:
+
+Cuatro valores que se pueden usar con la propiedad justify-content.
+cemter, space-around, space-between, space-evenly.
+
+¿Cuál es un objetivo primordial?
+Es el objetivo principal por el que se hace el proyecto, por ejemplo, el objetivo primordial de una app de mensajeria, seria poder enviar y recibir mensajes de texto entre dos personas.
+
+¿Qué son los wireframes de baja fidelidad?
+Son bocetos que se usan para saber el aspecto basico que quieres que tenga la web o aplicación, muestran de forma basica el aspecto y funciones de estas.
+
+¿Qué es Git?
+Es una herramienta que se utiliza para importar y exportar codigo de un projecto, guardando copias de versiones anteriores del proyecto para recuperar en caso de error.
+Git permite a varias personas contribuir a un proyecto al mismo tiempo, añadiendo cada uno su propio codigo.
+
+
+¿Qué es un sitemap?
+Un diagrama que hace de mapa de la app, mostrando las diferentes rutas que hay para y donde llegan dependiendo que botones o enlaces pulses.
+
+
+Asigne un nombre a tres valores que se pueden utilizar con flex-direction, incluido el valor predeterminado que utiliza flexbox cuando se crea.
+row (por defecto), column, flex-end.
